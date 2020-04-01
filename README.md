@@ -6,7 +6,7 @@ Makers is an annual, one of a kind competition which lets you show off your awes
 Usually this event happens once a year, but we know you are bored at home due to Covid-19 scenario and this seems a really nice time to learn about some new technology. So, we are launching this competition again, open to all and with more ideas. 
 
 ## Rules
-There are no ground rules but one - *no plagarism*. We will invalidate the submission if we find such case. After all, this competition is for learning. Deadline for submissions: __15 March 2359 Hours__
+There are no ground rules but one - *no plagarism*. We will invalidate the submission if we find such case. After all, this competition is for learning. Deadline for submissions: __15 April 2359 Hours__
 
 ## Prizes
 We will be handing out T-Shirts, swag, accessories and gaming consoles for top 3 submissions by students of IIT Roorkee, once the college reopens.
