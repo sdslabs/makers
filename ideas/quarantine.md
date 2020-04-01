@@ -1,4 +1,4 @@
-# Ideas list for the Covid Edition
+# Ideas list for the quarantine Edition
 
 * __Mouse over Wifi__: Connect a wireless mouse (the one with dongle, not bluetooth one) to raspberry pi, make a wifi hotspot from it. connect your laptop to the wifi. Challenge is to make the mouse connected to raspi work for your laptop, it should move the pointer in laptop, not RPi. Sort of KVM Switch, but need to be very lightweight.
 

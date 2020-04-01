@@ -32,7 +32,7 @@ jobs:
         fc="${{ steps.changes.outputs.files_created }}"
         fu="${{ steps.changes.outputs.files_updated }}"
         fd="${{ steps.changes.outputs.files_deleted }}"
-        pat="^submissions/covid/[a-zA-Z0-9_-]*.md$"
+        pat="^submissions/quarantine/[a-zA-Z0-9_-]*.md$"
         if [ -z $fu ] && [ -z $fd ] && [[ $fc =~ $pat ]]
         then
           echo "Success"
