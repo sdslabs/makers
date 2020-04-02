@@ -3,10 +3,10 @@ Makers tasks by SDSLabs.
 
 Makers is an annual, one of a kind competition which lets you show off your awesome projects and ideas you make during the period of one month. You are allowed to work on your own ideas, but if you are out of one, we have curated a list of awesome ideas you can choose one from.
 
-Usually this event happens once a year, but we know you are bored at home due to Covid-19 scenario and this seems a really nice time to learn about some new technology. So, we are launching this competition again, open to all and with more ideas. 
+Usually this event happens once a year, but we know you are bored at home due to Covid-19 scenario and this seems a really nice time to learn about some new technology. So, we are launching this competition again, open to all and with more ideas but a shorter period of 15 days! 
 
 ## Rules
-There are no ground rules but one - *no plagarism*. We will invalidate the submission if we find such case. After all, this competition is for learning. Deadline for submissions: __15 April 2359 Hours__
+There are no ground rules but one - *no plagarism*. We will invalidate the submission if we find such case. After all, this competition is for learning. Deadline for submissions: __17 April 2359 Hours__. Keep an eye on the issue [#3](https://github.com/sdslabs/makers/issues/3) for any important announcements!
 
 ## Prizes
 We will be handing out T-Shirts, swag, accessories and gaming consoles for top 3 submissions by students of IIT Roorkee, once the college reopens.
